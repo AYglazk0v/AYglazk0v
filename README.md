@@ -38,12 +38,12 @@
 ## hammer_and_wrench: Languages and Tools
 ### Tools:
 
-![Linux](https://github.com/vasekva/vasekva/raw/main/icons/linux.png)
-![MacOS](https://github.com/vasekva/vasekva/raw/main/icons/iMac.png)
+![Linux](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/linux.png)
+![MacOS](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/iMac.png)
 
-![Vim](https://github.com/vasekva/vasekva/raw/main/icons/vim.png)
-![Bash](https://github.com/vasekva/vasekva/raw/main/icons/iTerm.png)
-![Vstudio](https://github.com/vasekva/vasekva/raw/main/icons/VS_icon.png)
+![Vim](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/vim.png)
+![iTerm](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/iTerm.png)
+![VScode](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/vsCode.png)
 
 ### Learned the basics:
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="c" alt="c" width="80" height="80"/>&nbsp;
