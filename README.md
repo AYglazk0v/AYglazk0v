@@ -35,11 +35,12 @@
 |[CPP_modules](https://github.com/AYglazk0v/cpp_modules)|Several projects aimed at introducing the basics of ```C++```, ```OOP```, ```exceptions```, etc.|C++ std98, CMake|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
 
 ---
-## hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 ### Tools:
 
 ![Linux](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/linux.png)
 ![MacOS](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/iMac.png)
+![git](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/git.png)
 
 ![Vim](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/vim.png)
 ![iTerm](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/iTerm.png)
@@ -49,10 +50,12 @@
 
 ### Learned the basics:
 ![bash](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/bash.png)
-![c](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c.png)
-![java](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/java.png)
+![C](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c.png)
+![Java](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/java.png)
+![python](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/python.png)
+![matlab](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/Matlab.png)
 ![Cpp](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c-plus.png)
 
 ### Studying now:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="cpp" alt="cpp" width="80" height="80"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/92204143/192624133-6a3f8a5b-42fb-4b39-a76c-c90773f7bfc3.png" title="Boost" alt="Boost" width="80" height="80"/>&nbsp;
+![Cpp](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c-plus.png)
+![Boost](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/Boost.png)
