@@ -44,11 +44,14 @@
 ![Vim](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/vim.png)
 ![iTerm](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/iTerm.png)
 ![VScode](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/vsCode.png)
+![Valgrind](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/valgrind.png)
+![VMBox](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/VMBox.png)
 
 ### Learned the basics:
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="c" alt="c" width="80" height="80"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="ch" alt="ch" width="80" height="80"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="java" alt="java" width="80" height="80"/>&nbsp;
+![bash](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/bash.png)
+![c](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c.png)
+![java](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/java.png)
+![Cpp](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c-plus.png)
 
 ### Studying now:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="cpp" alt="cpp" width="80" height="80"/>&nbsp;
