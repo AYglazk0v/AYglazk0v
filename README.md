@@ -21,7 +21,7 @@
 
 | Project name      | Description                | Tools   |Score |
 |:------------------:|:-------------------------------------:|:------------------------:|:---------:|
-|[Libft](https://github.com/AYglazk0v/libft)|     Implement your own library for work with ```String``` and ```Linked Lists```    | C, Makefile |<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2799968" alt="gtaggana's 42 CPP Module 08 Score" /></a>|
+|[Libft](https://github.com/AYglazk0v/libft)|     Implement your own library for work with ```String``` and ```Linked Lists```    | C, Makefile |[![gtaggana's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2365653)](https://github.com/JaeSeoKim/badge42)|
 |[ft_printf](https://github.com/AYglazk0v/ft_printf)|         Write a function which behavour is like a ```printf``` function in C      | C, Makefile| [![gtaggana's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2406377)](https://github.com/JaeSeoKim/badge42)|
 |[get_next_line](https://github.com/AYglazk0v/GNL)| Implement the function which read a line from ```file discriptor```|C, Makefile| [![gtaggana's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2406378)](https://github.com/JaeSeoKim/badge42)|
 |[push_swap](https://github.com/AYglazk0v/push_swap)| Invent more efficient algorithm for sort ```stack``` with certain operations| C, Makefile|[![gtaggana's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2465122)](https://github.com/JaeSeoKim/badge42)|
