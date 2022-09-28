@@ -59,3 +59,6 @@
 ### Studying now:
 ![Cpp](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c-plus.png)
 ![Boost](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/Boost.png)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayglazk0v)](https://github.com/anuraghazra/github-readme-stats)
