@@ -33,6 +33,8 @@
 |[cub3D](https://github.com/AYglazk0v/cub3d)| Create a game with ```RayCasting``` technology like a Wolfenstein3D| C, MiniLibX, Makefile|[![gtaggana's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2648485)](https://github.com/JaeSeoKim/badge42)|
 |[Piscine-Java](https://github.com/AYglazk0v/javaPiscine)|Several projects covering almost entirely ```Java Core```, as well as ```Spring``` and ```Maven```| Java, JDBC, Spring, Maven |[![gtaggana's 42 Piscine Java Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2668520)](https://github.com/JaeSeoKim/badge42)|
 |[CPP_modules](https://github.com/AYglazk0v/cpp_modules)|Several projects aimed at introducing the basics of ```C++```, ```OOP```, ```exceptions```, etc.|C++ std98, CMake|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
+|[Inception](https://github.com/AYglazk0v/inception)|Project whose goal is to setup multiple ```Docker``` containers that are part of the same application(```Nginx```, ```Wordpress```, ```MariaDB```, ```Redis```, etc) using the ```docker-compose```|Docker, docker-compose, bash, CMake|[![gtaggana's 42 Inception Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2802405)](https://github.com/JaeSeoKim/badge42)|
+
 
 ---
 ## :hammer_and_wrench: Languages and Tools
