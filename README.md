@@ -61,7 +61,7 @@
 
 ### Studying now:
 ![Cpp](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/c-plus.png)
-![Boost](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/Boost.png)
+#![Boost](https://github.com/AYglazk0v/AYglazk0v/blob/main/icons/Boost.png)
 
 ##
 
