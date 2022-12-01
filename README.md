@@ -12,7 +12,7 @@
 </h3>
 
 <div align="center" href="https://github.com/JaeSeoKim/badge42">
-  <img src="https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/stats?cursusId=21&coalitionId=101" alt="gtaggana's 42 stats" width="600"/>
+  <img src="https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/stats?cursusId=21" alt="gtaggana's 42 stats" width="600"/>
 </div>
 
 <h3 align="center">
