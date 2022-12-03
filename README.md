@@ -35,6 +35,7 @@
 |[CPP_modules](https://github.com/AYglazk0v/cpp_modules)|Several projects aimed at introducing the basics of ```C++```, ```OOP```, ```exceptions```, etc.|C++ std98, CMake|<img width="146" alt="image" src="https://user-images.githubusercontent.com/74917681/191956793-719efcee-2a21-4c17-a770-caaa202b7c43.png">|
 |[Inception](https://github.com/AYglazk0v/inception)|Project whose goal is to setup multiple ```Docker``` containers that are part of the same application(```Nginx```, ```Wordpress```, ```MariaDB```, ```Redis```, etc) using the ```docker-compose```|Docker, docker-compose, bash, CMake|[![gtaggana's 42 Inception Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2802405)](https://github.com/JaeSeoKim/badge42)|
 |[ft_containers](https://github.com/AYglazk0v/ft_containers)|The goal of the project is to implement basic `C++`, containers such as `std::vector`, `std::stack`, `std::map`, `std::set`.|C++,  Makefile|[![gtaggana's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2802406)](https://github.com/JaeSeoKim/badge42)|
+|[Webserv](https://github.com/AYglazk0v/webserver)|The project is dedicated to writing your own HTTP server in `C++`.|C++,  Makefile|[![gtaggana's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl8kjg7kn00210gmjz2hbjlcc/project/2802406)](https://github.com/JaeSeoKim/badge42)|
 
 
 ---
